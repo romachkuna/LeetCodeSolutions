@@ -1,16 +1,7 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.List;
 
 public class Solutions {
 
     public static void main(String[] args) {
-        ListNode ls = new ListNode(9,new ListNode(2));
-        ListNode x = new ListNode(8,new ListNode(3));
-        System.out.println(addTwoNumbers(ls,x).val);
-        System.out.println(addTwoNumbers(ls,x).next.val);
     }
 
 
